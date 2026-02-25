@@ -1,4 +1,4 @@
-<h1>Agendador de Horários</h1>
+<h1>Agendamento de Horários</h1>
 
 <p>
 Projeto desenvolvido com <strong>Spring Boot</strong> para demonstrar os conceitos
